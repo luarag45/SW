@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 8, 51);
+    font-family: Pixelify Sans;
+}
+
+.num{
+    background-color: #2df1b7;
+    height: 31px;
+    width: 31px;
+    cursor: pointer;
+}
+.cont{
+    background-color: #4bbdff;
+    height: 31px;
+    width: 31px;
+    cursor: pointer;
+}
+.simb{
+    background-color: #a0a0a0;
+    height: 31px;
+    width: 31px;
+    cursor: pointer;
+}
+h1{
+    color: aliceblue;
+    text-shadow: 10px 5px #4bbdff ;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    font-size: 2em; color: azure;
+}
+input{
+    color: azure;
+    background-color: #000000;
+    font-family: Pixelify Sans;
+}
